@@ -1,0 +1,22 @@
+.anatomy-section {
+    padding: 20px;
+  }
+  
+  .body-image-container {
+    position: relative;
+    width: 300px;
+    margin: auto;
+  }
+  
+  .body-image {
+    width: 100%;
+  }
+  
+  .body-label {
+    position: absolute;
+    font-weight: bold;
+    background: rgba(255, 255, 255, 0.7);
+    padding: 4px;
+    border-radius: 4px;
+  }
+  
